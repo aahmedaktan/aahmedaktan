@@ -5,7 +5,7 @@
 - 🌱 İnönü Üniversitesinde Bilgisayar Mühendisliği okuyorum
 - 💻 Üniversite projelerime çalışıyorum
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johndoe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aahmedaktan)
 
 ## GitHub İstatistikleri
 
