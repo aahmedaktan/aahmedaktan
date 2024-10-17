@@ -10,5 +10,5 @@
 ## GitHub İstatistikleri
 
 ![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=aahmedaktan&show_icons=true&theme=dark)
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=aahmedaktan&layout=compact&theme=dark)
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=aahmedaktan&layout=compact)
 <img src="https://komarev.com/ghpvc/?username=aahmedaktan&style=flat-square&color=blue" alt=""/>
