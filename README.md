@@ -9,5 +9,5 @@
 
 ## GitHub İstatistikleri
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aahmedaktan&layout=donut)](https://github.com/aahmedaktan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aahmedaktan&layout=donut)](https://github.com/anuraghazr/github-readme-stats)
 <img src="https://komarev.com/ghpvc/?username=aahmedaktan&style=flat-square&color=blue" alt=""/>
