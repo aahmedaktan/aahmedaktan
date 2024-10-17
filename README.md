@@ -9,6 +9,6 @@
 
 ## GitHub İstatistikleri
 
-![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=aahmedaktan&show_icons=true&layout=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats&layout=dark)
+![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=aahmedaktan&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
 <img src="https://komarev.com/ghpvc/?username=aahmedaktan&style=flat-square&color=blue" alt=""/>
